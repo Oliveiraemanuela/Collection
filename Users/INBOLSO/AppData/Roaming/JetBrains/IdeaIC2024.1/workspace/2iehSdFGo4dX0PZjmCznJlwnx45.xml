@@ -1,0 +1,141 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Collection-java-224" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3jsmigi0hxg4k" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;JAVA&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1719857104975
+    },
+    &quot;IDEA_MODULE&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1719865260911
+    },
+    &quot;GitIgnore file&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1719865263960
+    }
+  }
+}</component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1719865263960" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1719857104976" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Main" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32994792" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Pull Requests" order="2" weight="0.32994792" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33028847" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.33028847" left="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Pull Requests</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="342" key="Github.ShareDialog" timestamp="1719865200119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="342" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1719865200119" />
+    <state width="1838" height="301" key="GridCell.Tab.0.bottom" timestamp="1719865359028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1719865359028" />
+    <state width="1838" height="301" key="GridCell.Tab.0.center" timestamp="1719865359027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1719865359027" />
+    <state width="1838" height="301" key="GridCell.Tab.0.left" timestamp="1719865359027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1719865359027" />
+    <state width="1838" height="301" key="GridCell.Tab.0.right" timestamp="1719865359027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1719865359027" />
+    <state x="461" y="149" key="SettingsEditor" timestamp="1719865062117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="149" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1719865062117" />
+    <state x="746" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1719864802095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1719864802095" />
+    <state x="634" y="65" width="675" height="650" key="find.popup" timestamp="1719865297311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="65" width="675" height="650" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1719865297311" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Collection-java-2024/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/../Collection-java-2024/Collection-java-224.iml" />
+    <entry file="file://$PROJECT_DIR$/../Collection-java-2024/src/Main.java" />
+  </component>
+</project>
